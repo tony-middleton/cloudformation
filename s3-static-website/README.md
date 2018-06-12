@@ -1,6 +1,6 @@
 # s3-static-website
 
-###A CloudFormation script that creates a static website on S3.
+A CloudFormation script that creates a static website on S3.
 
 ## Features
 
