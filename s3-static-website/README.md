@@ -16,3 +16,4 @@ A CloudFormation script that creates a static website on S3.
 1. In Select Template, choose **Upload a template to Amazon S3** and choose the s3-static-website.yaml and click Next
 1. In **Stack name** enter a sensible name (it doesn't matter), in **BucketName** enter the bucket name and click Next
 1. Click Next again and click Create
+1. Upload index.html and error.html to your new bucket
