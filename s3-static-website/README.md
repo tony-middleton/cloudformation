@@ -1,6 +1,6 @@
 # s3-static-website
 
-[A CloudFormation script](https://raw.githubusercontent.com/matthew-andrews/static-website-cloudformation/master/stack.json) that does simple static file hosting on S3.
+A CloudFormation script that creates a static website on S3.
 
 ## Features
 
